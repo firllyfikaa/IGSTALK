@@ -10,10 +10,10 @@ Welcome
 
 <details open><summary><code>Perintah Script?</code></summary>
 
-```js
+```python
 $ git clone https://github.com/firllyfikaa/IGSTALK/
 
-// cara install package
+# cara install package
 $ pip install -r requirements.txt 
 ```
 </details>
