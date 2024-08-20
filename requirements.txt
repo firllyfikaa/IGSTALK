@@ -1,3 +1,4 @@
 instaloader
+pyfiglet
 colorama
 time
