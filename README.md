@@ -2,7 +2,7 @@ Welcome
 --------|
 ![](https://media1.tenor.com/m/HNcG3X-Og7wAAAAC/welcome-anime.gif)
 
-# Case Script WhatsApp Bots 
+# Ig Stalk Script
 ## Function:
 - `Untuk Mendapatkan Informasi dari akun seseorang atau pribadi.`
 - `Tanpa login/block akun`
