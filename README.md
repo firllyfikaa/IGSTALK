@@ -4,19 +4,16 @@ Welcome
 
 # Case Script WhatsApp Bots 
 ## Function:
-- `Used to create WhatsApp bots.`
-- `you can also add new features to your bot`
+- `Untuk Mendapatkan Informasi dari akun seseorang atau pribadi.`
+- `Tanpa login/block akun`
 
-## Announcement :
-- `Ini adalah script Case yang masih baru`
-- `Belum ada fitur-fiturnya`
 
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```css
-$ git clone 
+$ git clone https://github.com/firllyfikaa/IGSTALK/
 
-// cara start script
-$ pip install -r 
+// cara install package
+$ pip install -r requirements.txt 
 ```
 </details>
