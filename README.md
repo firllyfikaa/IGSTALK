@@ -10,7 +10,7 @@ Welcome
 
 <details open><summary><code>Perintah Script?</code></summary>
 
-```css
+```js
 $ git clone https://github.com/firllyfikaa/IGSTALK/
 
 // cara install package
